@@ -1,10 +1,32 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Luísa Nogueira]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [September 1st, Tuesday, 2020].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+For my first challenge, I used only HTML and CSS to give my text a frame, using border-image: 
+https://codepen.io/luisanogueira/pen/gOrxBgo
+
+For the second, I wanted to use the CSS animation property, to give movement to my elements:
+https://codepen.io/luisanogueira/pen/dyMzaNO
 
 ### R1D2
+
+
+### R1D3
+
+
+### R1D4
+
+
+### R1D5
+
+
+### R1D6
+
+
+### R1D7
+
+
+### R1D8
