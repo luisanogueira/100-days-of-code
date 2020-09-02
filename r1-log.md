@@ -12,7 +12,7 @@ For the second, I wanted to use the CSS animation property, to give movement to 
 https://codepen.io/luisanogueira/pen/dyMzaNO
 
 ### R1D2
-
+Today I was doing a refreshment course on JavaScript Data Structures, on freecodecamp.org.
 
 ### R1D3
 
