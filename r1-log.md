@@ -16,7 +16,8 @@ Today I was doing a refreshment course on JavaScript Data Structures, on freecod
 https://twitter.com/Lufradenogueira/status/1301204880711876609
 
 ### R1D3
-
+Finished Basic Data Structures module and started Basic Algorithm Scripting, freecodecamp.org:
+https://twitter.com/Lufradenogueira/status/1301550839526551552
 
 ### R1D4
 
