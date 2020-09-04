@@ -20,7 +20,8 @@ Finished Basic Data Structures module and started Basic Algorithm Scripting, fre
 https://twitter.com/Lufradenogueira/status/1301550839526551552
 
 ### R1D4
-
+Continued with Basic Algorithm Scripting and practiced replacing for loops for map() and reduce() methods:
+https://twitter.com/Lufradenogueira/status/1301895013887025152
 
 ### R1D5
 
