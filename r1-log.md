@@ -24,10 +24,14 @@ Continued with Basic Algorithm Scripting and practiced replacing for loops for m
 https://twitter.com/Lufradenogueira/status/1301895013887025152
 
 ### R1D5
-
+Studied React.js principles and checked code challenge in Gatsby:
+https://twitter.com/Lufradenogueira/status/1303019004102086657
 
 ### R1D6
-
+Started my GitHub page portfolio:
+- Created a React App,
+- created a Main component and styled.
+https://twitter.com/Lufradenogueira/status/1303364114681606144
 
 ### R1D7
 
