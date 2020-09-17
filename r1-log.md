@@ -34,6 +34,31 @@ Started my GitHub page portfolio:
 https://twitter.com/Lufradenogueira/status/1303364114681606144
 
 ### R1D7
-
+Designed polygon image using a picture of me and started implementing the portfolio:
+https://twitter.com/Lufradenogueira/status/1303970120448999424
 
 ### R1D8
+Included font-awesome icons to portfolio and improved styling:
+https://twitter.com/Lufradenogueira/status/1304405604132368385
+
+### R1D9
+JavaScript algorithm exercises:
+https://twitter.com/Lufradenogueira/status/1305534207079387137
+
+### R1D10
+JavaScript algorithm exercises:
+https://twitter.com/Lufradenogueira/status/1305878384380121092
+
+### R1D11
+Removed the React project and started implementing portfolio using HTML and CSS just:
+- Finished the header with brief description;
+- included polygon;
+- styled and chose main colors;
+- started including body content;
+https://twitter.com/Lufradenogueira/status/1306561046191263744
+
+### R1D12
+
+### R1D13
+
+### R1D14
